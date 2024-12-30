@@ -1,6 +1,7 @@
-# About me!
-
-# Hi there, I'm Aakash Modi! 👋
+<h1 align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=31F73F&background=FFCF9D00&center=true&vCenter=true&width=455&height=100&lines=Hello+There!+%F0%9F%91%8B;This+is+Aakash+Modi....;Nice+to+meet+you!" alt="Typing SVG"/>
+  </a>
+</h1>
 
 I am an Undergraduate Computer Science (AI) student passionate about technology and software development. Here's a bit about me:
 
