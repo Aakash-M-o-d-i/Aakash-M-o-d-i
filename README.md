@@ -13,12 +13,11 @@ I am an Undergraduate Computer Science (AI) student passionate about technology 
 I am dedicated to learning and growing in the field of computer science, with a keen interest in AI and software development. I enjoy working on projects that challenge me and allow me to apply my skills in Java, SQL, Android development, and C/C++. 
 
 ### Connect With Me:
+[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/AakashModi1750_)
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/aakash-modi-9800052a9/)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/a_akash.modi/?utm_source=qr&igsh=ZndsbzB3amUwcmh1)
+[![Mail](https://skillicons.dev/icons?i=gmail)](mailto:work.aakash.modi@gmail.com)
 
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AakashModi1750_)
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aakash-modi-9800052a9/)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/a_akash.modi/?utm_source=qr&igsh=ZndsbzB3amUwcmh1)
-[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:work.aakash.modi@gmail.com)
----
 
 ---
 
@@ -38,7 +37,7 @@ I am dedicated to learning and growing in the field of computer science, with a 
 [![My Other Development Tools](https://skillicons.dev/icons?i=docker,figma,git,github,postman,blender,linux)](https://skillicons.dev)
  
 
-
+---
 
 <br/>
 <h2 align="center"> Github Statistics 📈</h2>
@@ -52,7 +51,7 @@ I am dedicated to learning and growing in the field of computer science, with a 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Aakash-M-o-d-i&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 </a><br><br>
-
-Feel free to reach out for collaborations, projects, or just to connect and discuss tech! <h1 align="center">😊</h1>
 ---
-
+<h1 align="center">
+Feel free to reach out for collaborations, projects, or just to connect and discuss tech! <h1 align="center">😊</h1> 
+<h1/>
