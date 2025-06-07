@@ -55,3 +55,8 @@ I am dedicated to learning and growing in the field of computer science, with a 
 <h1 align="center">
 Feel free to reach out for collaborations, projects, or just to connect and discuss tech! <h1 align="center">😊</h1> 
 <h1/>
+
+## Happy Coding/Hacking
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" alt="Live Demo">
+</div>
