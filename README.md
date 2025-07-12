@@ -5,12 +5,13 @@
 
 I am an Undergraduate Computer Science (AI) student passionate about technology and software development. Here's a bit about me:
 
-- 🎓 Studying Computer Science (AI) at Central Tribal University of Andhra Pradesh
-- 💻 Skills: Java, SQL, Android development, C/C++
-- 🌟 Currently honing my skills in software development and exploring new technologies
+- 🎓 Studying Computer Science (AI) at Central Tribal University of Andhra Pradesh.
+- 💻 Skills: Java, SQL, Android development, C/C++.
+- 🌟  Currently honing my skills in software development, cybersecurity, and exploring new technologies.
 
 ## About Me
 I am dedicated to learning and growing in the field of computer science, with a keen interest in AI and software development. I enjoy working on projects that challenge me and allow me to apply my skills in Java, SQL, Android development, and C/C++. 
+ I enjoy analyzing systems, discovering vulnerabilities, and strengthening digital defenses using tools like Nmap, Nikto, Wireshark, Burp Suite, Metasploit, and Gobuster.
 
 ### Connect With Me:
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/AakashModi1750_)
